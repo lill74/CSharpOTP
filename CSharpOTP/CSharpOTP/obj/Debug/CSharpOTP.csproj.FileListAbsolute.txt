@@ -1,0 +1,7 @@
+C:\Users\a0103\source\repos\CSharpOTP\CSharpOTP\bin\Debug\CSharpOTP.exe.config
+C:\Users\a0103\source\repos\CSharpOTP\CSharpOTP\bin\Debug\CSharpOTP.exe
+C:\Users\a0103\source\repos\CSharpOTP\CSharpOTP\bin\Debug\CSharpOTP.pdb
+C:\Users\a0103\source\repos\CSharpOTP\CSharpOTP\obj\Debug\CSharpOTP.csprojAssemblyReference.cache
+C:\Users\a0103\source\repos\CSharpOTP\CSharpOTP\obj\Debug\CSharpOTP.csproj.CoreCompileInputs.cache
+C:\Users\a0103\source\repos\CSharpOTP\CSharpOTP\obj\Debug\CSharpOTP.exe
+C:\Users\a0103\source\repos\CSharpOTP\CSharpOTP\obj\Debug\CSharpOTP.pdb
