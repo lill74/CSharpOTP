@@ -10,6 +10,7 @@
 |long|distance|OTP refesh distance (It depends on what you are using time variable)|
 
 *Functions*
+
 |Type|Name|Args|Function|
 |--|--|--|--|
 |long|getkey()|bytes[] a|Convert byte array to integer|
